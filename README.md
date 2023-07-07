@@ -14,9 +14,6 @@ Download the source code and run the "mainwindow.py".
 You need to have python installed 
 No other library is needed.
 
-You can try downloading the build folder and running
-the "OpenChannelCalculator.exe" but it does not work on
-all computers (it works at mine :P) 
 
 
 There is also a presentation about how the program works but unfortunally is in Greek.
