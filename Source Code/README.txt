@@ -1,0 +1,1 @@
+PROGRAM STARTS BY RUNNING "mainwindow.py"
