@@ -1,5 +1,5 @@
 # OpenChannelCalculator
-This is a project whithin the class of programming of NTUA School of Civil Engineering which I took and calculates hydraulic properties of open channels.
+This is a project whithin the class of programming of NTUA's School of Civil Engineering which I took and calculates hydraulic properties of open channels.
 
 Description:
 The programm is written exclusively in pyhton as it was the main subject of the class.
